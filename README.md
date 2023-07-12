@@ -29,7 +29,7 @@
 
 Ссылка в Metabase - https://metabase.sky.pro/question/74891
 
-Файл Word - 
+Файл Word - Курсовая SQL MГрыжин.docx
 
 ### Калькулятор юнит-экономики (работа в MS Excel):
 
@@ -39,7 +39,7 @@
 
 Ссылка в Google - https://docs.google.com/spreadsheets/d/17ZwZheop8PVloqVWqfTDs8k1PZ-cYuFv?rtpof=true&usp=drive_fs
 
-Файл Excel - 
+Файл Excel - SkyPro ГП-1-2-3ч команда 3 Данные М (v3).xlsx
 
 ## Личный проект (в разработке)
 
