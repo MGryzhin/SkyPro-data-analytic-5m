@@ -47,5 +47,16 @@
 
 Опрос в VK https://vk.com/al_feed.php?w=poll89344568_606528063
 
+- Развитие темы Дипломного проекта 2007 г. Мастер Делового Администрирования (MBA\MBI)
+"Разработка концепции проекта внедрения нового финансового сервиса "Единый Счет" на базе современных ИТ"
+банковские переводы по номеру мобильного телефона.
+
+Дипломная работа https://docs.google.com/document/d/1ETTviTYbaODSHcMc1loY1dEoIUvkSmqo/edit?usp=sharing&ouid=108653221960773664523&rtpof=true&sd=true
+
+Презентация https://docs.google.com/presentation/d/1ETA1aEHFKwGl5yEnphUFKY_AycMZiMgC/edit?usp=sharing&ouid=108653221960773664523&rtpof=true&sd=true
+
+
+
+
 ## Контакты:
 Электронная почта: gryzhin@yandex.ru (предпочтительный способ связи)
